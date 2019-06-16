@@ -1,0 +1,5 @@
+---
+# tasks file for pip
+
+- name: Install PIP
+  package: name=python-pip
